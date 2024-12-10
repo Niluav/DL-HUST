@@ -1,0 +1,17 @@
+{"time":"2024-12-06T11:40:41.9741066+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T11:40:41.9746305+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_114041-vlhmufcj\\logs\\debug-core.log"}
+{"time":"2024-12-06T11:40:43.7387473+07:00","level":"INFO","msg":"created new stream","id":"vlhmufcj"}
+{"time":"2024-12-06T11:40:43.7392653+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"vlhmufcj"}
+{"time":"2024-12-06T11:40:43.7392653+07:00","level":"INFO","msg":"handler: started","stream_id":"vlhmufcj"}
+{"time":"2024-12-06T11:40:43.7392653+07:00","level":"INFO","msg":"sender: started","stream_id":"vlhmufcj"}
+{"time":"2024-12-06T11:40:43.7392653+07:00","level":"INFO","msg":"stream: started","id":"vlhmufcj"}
+{"time":"2024-12-06T11:40:44.2226263+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T11:41:58.3282795+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T11:41:58.3287834+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T11:41:59.33112+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4608566},{"desc":"uploading config.yaml","runtime_seconds":0.1663234,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.1663234,"progress":"1.7KB/1.7KB"}],"total_operations":3}}
+{"time":"2024-12-06T11:42:00.1254577+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T11:42:01.5901478+07:00","level":"INFO","msg":"stream: closing","id":"vlhmufcj"}
+{"time":"2024-12-06T11:42:01.5901478+07:00","level":"INFO","msg":"handler: closed","stream_id":"vlhmufcj"}
+{"time":"2024-12-06T11:42:01.5901478+07:00","level":"INFO","msg":"sender: closed","stream_id":"vlhmufcj"}
+{"time":"2024-12-06T11:42:01.5901478+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vlhmufcj"}
+{"time":"2024-12-06T11:42:01.5901478+07:00","level":"INFO","msg":"stream: closed","id":"vlhmufcj"}

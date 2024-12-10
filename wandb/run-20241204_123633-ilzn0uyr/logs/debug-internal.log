@@ -1,0 +1,17 @@
+{"time":"2024-12-04T12:36:33.5125008+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-04T12:36:33.5125008+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241204_123633-ilzn0uyr\\logs\\debug-core.log"}
+{"time":"2024-12-04T12:36:35.1878059+07:00","level":"INFO","msg":"created new stream","id":"ilzn0uyr"}
+{"time":"2024-12-04T12:36:35.1878059+07:00","level":"INFO","msg":"stream: started","id":"ilzn0uyr"}
+{"time":"2024-12-04T12:36:35.1878059+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"ilzn0uyr"}
+{"time":"2024-12-04T12:36:35.1878059+07:00","level":"INFO","msg":"handler: started","stream_id":"ilzn0uyr"}
+{"time":"2024-12-04T12:36:35.1878059+07:00","level":"INFO","msg":"sender: started","stream_id":"ilzn0uyr"}
+{"time":"2024-12-04T12:36:35.7230361+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T12:37:21.9912817+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T12:37:21.9917862+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T12:37:22.9990557+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.714717},{"desc":"uploading config.yaml","runtime_seconds":0.4084076,"progress":"1.3KB/1.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4084076,"progress":"1.3KB/1.3KB"}],"total_operations":3}}
+{"time":"2024-12-04T12:37:25.076826+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-04T12:37:26.5224983+07:00","level":"INFO","msg":"stream: closing","id":"ilzn0uyr"}
+{"time":"2024-12-04T12:37:26.5224983+07:00","level":"INFO","msg":"handler: closed","stream_id":"ilzn0uyr"}
+{"time":"2024-12-04T12:37:26.5224983+07:00","level":"INFO","msg":"sender: closed","stream_id":"ilzn0uyr"}
+{"time":"2024-12-04T12:37:26.5224983+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ilzn0uyr"}
+{"time":"2024-12-04T12:37:26.5230072+07:00","level":"INFO","msg":"stream: closed","id":"ilzn0uyr"}

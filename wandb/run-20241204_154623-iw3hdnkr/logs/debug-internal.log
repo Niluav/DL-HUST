@@ -1,0 +1,19 @@
+{"time":"2024-12-04T15:46:23.0339754+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-04T15:46:23.0339754+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241204_154623-iw3hdnkr\\logs\\debug-core.log"}
+{"time":"2024-12-04T15:46:24.7955343+07:00","level":"INFO","msg":"created new stream","id":"iw3hdnkr"}
+{"time":"2024-12-04T15:46:24.7955343+07:00","level":"INFO","msg":"stream: started","id":"iw3hdnkr"}
+{"time":"2024-12-04T15:46:24.7955343+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"iw3hdnkr"}
+{"time":"2024-12-04T15:46:24.7955343+07:00","level":"INFO","msg":"handler: started","stream_id":"iw3hdnkr"}
+{"time":"2024-12-04T15:46:24.7955343+07:00","level":"INFO","msg":"sender: started","stream_id":"iw3hdnkr"}
+{"time":"2024-12-04T15:46:25.5027719+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T15:46:26.8770118+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-04T15:47:04.0813277+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-04T15:47:04.0891391+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T15:47:04.0898145+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T15:47:05.0910263+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4212753},{"desc":"uploading config.yaml","runtime_seconds":0.10776,"progress":"943B/943B"},{"desc":"uploading output.log","runtime_seconds":0.10776,"progress":"837B/837B"}],"total_operations":3}}
+{"time":"2024-12-04T15:47:07.8306908+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-04T15:47:09.2095674+07:00","level":"INFO","msg":"stream: closing","id":"iw3hdnkr"}
+{"time":"2024-12-04T15:47:09.2095674+07:00","level":"INFO","msg":"handler: closed","stream_id":"iw3hdnkr"}
+{"time":"2024-12-04T15:47:09.2095674+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"iw3hdnkr"}
+{"time":"2024-12-04T15:47:09.2101316+07:00","level":"INFO","msg":"sender: closed","stream_id":"iw3hdnkr"}
+{"time":"2024-12-04T15:47:09.2101316+07:00","level":"INFO","msg":"stream: closed","id":"iw3hdnkr"}

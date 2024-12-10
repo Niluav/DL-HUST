@@ -1,0 +1,17 @@
+{"time":"2024-12-06T11:42:15.3081491+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T11:42:15.3081491+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_114215-wgo96ufh\\logs\\debug-core.log"}
+{"time":"2024-12-06T11:42:17.1872796+07:00","level":"INFO","msg":"created new stream","id":"wgo96ufh"}
+{"time":"2024-12-06T11:42:17.1872796+07:00","level":"INFO","msg":"stream: started","id":"wgo96ufh"}
+{"time":"2024-12-06T11:42:17.1872796+07:00","level":"INFO","msg":"handler: started","stream_id":"wgo96ufh"}
+{"time":"2024-12-06T11:42:17.1872796+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"wgo96ufh"}
+{"time":"2024-12-06T11:42:17.1872796+07:00","level":"INFO","msg":"sender: started","stream_id":"wgo96ufh"}
+{"time":"2024-12-06T11:42:17.8012686+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T11:46:56.8584517+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T11:46:56.8588573+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T11:46:57.863255+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4420567,"progress":"379B/379B"},{"desc":"saving job artifact","runtime_seconds":0.3642792},{"desc":"uploading config.yaml","runtime_seconds":0.0629265,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.0629265,"progress":"4.7KB/4.7KB"}],"total_operations":4}}
+{"time":"2024-12-06T11:46:58.7933535+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T11:47:00.2163722+07:00","level":"INFO","msg":"stream: closing","id":"wgo96ufh"}
+{"time":"2024-12-06T11:47:00.2163722+07:00","level":"INFO","msg":"handler: closed","stream_id":"wgo96ufh"}
+{"time":"2024-12-06T11:47:00.2163722+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wgo96ufh"}
+{"time":"2024-12-06T11:47:00.2163722+07:00","level":"INFO","msg":"sender: closed","stream_id":"wgo96ufh"}
+{"time":"2024-12-06T11:47:00.2168771+07:00","level":"INFO","msg":"stream: closed","id":"wgo96ufh"}

@@ -1,0 +1,17 @@
+{"time":"2024-12-06T11:06:34.2172323+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T11:06:34.2177655+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_110634-n8m646x1\\logs\\debug-core.log"}
+{"time":"2024-12-06T11:06:35.9854936+07:00","level":"INFO","msg":"created new stream","id":"n8m646x1"}
+{"time":"2024-12-06T11:06:35.9854936+07:00","level":"INFO","msg":"stream: started","id":"n8m646x1"}
+{"time":"2024-12-06T11:06:35.9854936+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"n8m646x1"}
+{"time":"2024-12-06T11:06:35.9854936+07:00","level":"INFO","msg":"sender: started","stream_id":"n8m646x1"}
+{"time":"2024-12-06T11:06:35.9854936+07:00","level":"INFO","msg":"handler: started","stream_id":"n8m646x1"}
+{"time":"2024-12-06T11:06:36.8687598+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T11:07:51.8573867+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T11:07:51.8578907+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T11:07:52.860283+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.342481},{"desc":"uploading history, summary, console logs","runtime_seconds":0.3102979},{"desc":"uploading config.yaml","runtime_seconds":0.0487266,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.0487266,"progress":"1.7KB/1.7KB"}],"total_operations":4}}
+{"time":"2024-12-06T11:07:53.2904109+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T11:07:54.634536+07:00","level":"INFO","msg":"stream: closing","id":"n8m646x1"}
+{"time":"2024-12-06T11:07:54.634536+07:00","level":"INFO","msg":"handler: closed","stream_id":"n8m646x1"}
+{"time":"2024-12-06T11:07:54.634536+07:00","level":"INFO","msg":"sender: closed","stream_id":"n8m646x1"}
+{"time":"2024-12-06T11:07:54.634536+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n8m646x1"}
+{"time":"2024-12-06T11:07:54.6350425+07:00","level":"INFO","msg":"stream: closed","id":"n8m646x1"}

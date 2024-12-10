@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:04:46.9379991+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T14:04:46.9379991+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_140446-wbbxvi1g\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:04:48.7008291+07:00","level":"INFO","msg":"created new stream","id":"wbbxvi1g"}
+{"time":"2024-12-06T14:04:48.7008291+07:00","level":"INFO","msg":"stream: started","id":"wbbxvi1g"}
+{"time":"2024-12-06T14:04:48.7008291+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"wbbxvi1g"}
+{"time":"2024-12-06T14:04:48.7008291+07:00","level":"INFO","msg":"handler: started","stream_id":"wbbxvi1g"}
+{"time":"2024-12-06T14:04:48.7008291+07:00","level":"INFO","msg":"sender: started","stream_id":"wbbxvi1g"}
+{"time":"2024-12-06T14:04:49.1212677+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:05:40.018196+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:05:40.0187578+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:05:41.0314428+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6179011},{"desc":"uploading output.log","runtime_seconds":0.324359,"progress":"6.5KB/6.5KB"}],"total_operations":2}}
+{"time":"2024-12-06T14:05:41.2404266+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:05:42.6172125+07:00","level":"INFO","msg":"stream: closing","id":"wbbxvi1g"}
+{"time":"2024-12-06T14:05:42.6172125+07:00","level":"INFO","msg":"handler: closed","stream_id":"wbbxvi1g"}
+{"time":"2024-12-06T14:05:42.6172125+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wbbxvi1g"}
+{"time":"2024-12-06T14:05:42.6172125+07:00","level":"INFO","msg":"sender: closed","stream_id":"wbbxvi1g"}
+{"time":"2024-12-06T14:05:42.6177165+07:00","level":"INFO","msg":"stream: closed","id":"wbbxvi1g"}

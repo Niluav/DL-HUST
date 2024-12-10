@@ -1,0 +1,19 @@
+{"time":"2024-12-06T10:42:28.9697867+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T10:42:28.9697867+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_104228-4wvkp4ko\\logs\\debug-core.log"}
+{"time":"2024-12-06T10:42:30.0326947+07:00","level":"INFO","msg":"created new stream","id":"4wvkp4ko"}
+{"time":"2024-12-06T10:42:30.0326947+07:00","level":"INFO","msg":"stream: started","id":"4wvkp4ko"}
+{"time":"2024-12-06T10:42:30.0326947+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"4wvkp4ko"}
+{"time":"2024-12-06T10:42:30.0326947+07:00","level":"INFO","msg":"handler: started","stream_id":"4wvkp4ko"}
+{"time":"2024-12-06T10:42:30.0326947+07:00","level":"INFO","msg":"sender: started","stream_id":"4wvkp4ko"}
+{"time":"2024-12-06T10:42:30.4901467+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T10:42:30.6683485+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-06T10:45:24.2727414+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-06T10:45:24.2777121+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T10:45:24.2782177+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T10:45:25.2929057+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4809815},{"desc":"uploading config.yaml","runtime_seconds":0.1986622,"progress":"889B/889B"},{"desc":"uploading output.log","runtime_seconds":0.1986622}],"total_operations":3}}
+{"time":"2024-12-06T10:45:25.7658959+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T10:45:27.1183194+07:00","level":"INFO","msg":"stream: closing","id":"4wvkp4ko"}
+{"time":"2024-12-06T10:45:27.1183194+07:00","level":"INFO","msg":"handler: closed","stream_id":"4wvkp4ko"}
+{"time":"2024-12-06T10:45:27.1183194+07:00","level":"INFO","msg":"sender: closed","stream_id":"4wvkp4ko"}
+{"time":"2024-12-06T10:45:27.1183194+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4wvkp4ko"}
+{"time":"2024-12-06T10:45:27.1188243+07:00","level":"INFO","msg":"stream: closed","id":"4wvkp4ko"}

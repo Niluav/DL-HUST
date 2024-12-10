@@ -1,0 +1,17 @@
+{"time":"2024-12-06T11:07:54.6884742+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T11:07:54.6889979+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_110754-m937kmg6\\logs\\debug-core.log"}
+{"time":"2024-12-06T11:07:55.7568635+07:00","level":"INFO","msg":"created new stream","id":"m937kmg6"}
+{"time":"2024-12-06T11:07:55.7573861+07:00","level":"INFO","msg":"stream: started","id":"m937kmg6"}
+{"time":"2024-12-06T11:07:55.7573861+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"m937kmg6"}
+{"time":"2024-12-06T11:07:55.7573861+07:00","level":"INFO","msg":"sender: started","stream_id":"m937kmg6"}
+{"time":"2024-12-06T11:07:55.7573861+07:00","level":"INFO","msg":"handler: started","stream_id":"m937kmg6"}
+{"time":"2024-12-06T11:07:56.5316848+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T11:09:10.4570694+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T11:09:10.4575829+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T11:09:11.4721245+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.501109},{"desc":"uploading config.yaml","runtime_seconds":0.212383,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.212383,"progress":"1.7KB/1.7KB"}],"total_operations":3}}
+{"time":"2024-12-06T11:09:11.7646108+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T11:09:13.1623102+07:00","level":"INFO","msg":"stream: closing","id":"m937kmg6"}
+{"time":"2024-12-06T11:09:13.1623102+07:00","level":"INFO","msg":"handler: closed","stream_id":"m937kmg6"}
+{"time":"2024-12-06T11:09:13.1623102+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"m937kmg6"}
+{"time":"2024-12-06T11:09:13.1623102+07:00","level":"INFO","msg":"sender: closed","stream_id":"m937kmg6"}
+{"time":"2024-12-06T11:09:13.1628163+07:00","level":"INFO","msg":"stream: closed","id":"m937kmg6"}

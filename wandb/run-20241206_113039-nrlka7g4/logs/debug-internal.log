@@ -1,0 +1,17 @@
+{"time":"2024-12-06T11:30:39.144557+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T11:30:39.144557+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_113039-nrlka7g4\\logs\\debug-core.log"}
+{"time":"2024-12-06T11:30:40.202922+07:00","level":"INFO","msg":"created new stream","id":"nrlka7g4"}
+{"time":"2024-12-06T11:30:40.202922+07:00","level":"INFO","msg":"stream: started","id":"nrlka7g4"}
+{"time":"2024-12-06T11:30:40.202922+07:00","level":"INFO","msg":"handler: started","stream_id":"nrlka7g4"}
+{"time":"2024-12-06T11:30:40.202922+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"nrlka7g4"}
+{"time":"2024-12-06T11:30:40.202922+07:00","level":"INFO","msg":"sender: started","stream_id":"nrlka7g4"}
+{"time":"2024-12-06T11:30:40.6898581+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T11:32:03.5772397+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T11:32:03.5777613+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T11:32:04.5801949+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4454024},{"desc":"uploading config.yaml","runtime_seconds":0.1538819,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.1538819,"progress":"1.7KB/1.7KB"}],"total_operations":3}}
+{"time":"2024-12-06T11:32:04.9699036+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T11:32:06.5391588+07:00","level":"INFO","msg":"stream: closing","id":"nrlka7g4"}
+{"time":"2024-12-06T11:32:06.5391588+07:00","level":"INFO","msg":"handler: closed","stream_id":"nrlka7g4"}
+{"time":"2024-12-06T11:32:06.5391588+07:00","level":"INFO","msg":"sender: closed","stream_id":"nrlka7g4"}
+{"time":"2024-12-06T11:32:06.5391588+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nrlka7g4"}
+{"time":"2024-12-06T11:32:06.5396652+07:00","level":"INFO","msg":"stream: closed","id":"nrlka7g4"}

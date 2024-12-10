@@ -1,0 +1,17 @@
+{"time":"2024-12-06T10:53:41.6077481+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T10:53:41.6082754+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_105341-vxd4wf6c\\logs\\debug-core.log"}
+{"time":"2024-12-06T10:53:43.3695053+07:00","level":"INFO","msg":"created new stream","id":"vxd4wf6c"}
+{"time":"2024-12-06T10:53:43.3695053+07:00","level":"INFO","msg":"stream: started","id":"vxd4wf6c"}
+{"time":"2024-12-06T10:53:43.3695053+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"vxd4wf6c"}
+{"time":"2024-12-06T10:53:43.3695053+07:00","level":"INFO","msg":"handler: started","stream_id":"vxd4wf6c"}
+{"time":"2024-12-06T10:53:43.3695053+07:00","level":"INFO","msg":"sender: started","stream_id":"vxd4wf6c"}
+{"time":"2024-12-06T10:53:43.9963812+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T10:54:38.7294285+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T10:54:38.7299324+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T10:54:39.7444464+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6766688,"progress":"374B/374B"},{"desc":"saving job artifact","runtime_seconds":0.6751322},{"desc":"uploading config.yaml","runtime_seconds":0.3908027,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.3908027,"progress":"1.6KB/1.6KB"}],"total_operations":4}}
+{"time":"2024-12-06T10:54:40.0261762+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T10:54:41.4215263+07:00","level":"INFO","msg":"stream: closing","id":"vxd4wf6c"}
+{"time":"2024-12-06T10:54:41.4215263+07:00","level":"INFO","msg":"handler: closed","stream_id":"vxd4wf6c"}
+{"time":"2024-12-06T10:54:41.4215263+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vxd4wf6c"}
+{"time":"2024-12-06T10:54:41.4215263+07:00","level":"INFO","msg":"sender: closed","stream_id":"vxd4wf6c"}
+{"time":"2024-12-06T10:54:41.4220327+07:00","level":"INFO","msg":"stream: closed","id":"vxd4wf6c"}

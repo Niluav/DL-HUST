@@ -1,0 +1,17 @@
+{"time":"2024-12-06T10:30:01.000375+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T10:30:01.0008963+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_102957-aaq46etm\\logs\\debug-core.log"}
+{"time":"2024-12-06T10:30:02.8914911+07:00","level":"INFO","msg":"created new stream","id":"aaq46etm"}
+{"time":"2024-12-06T10:30:02.8925178+07:00","level":"INFO","msg":"stream: started","id":"aaq46etm"}
+{"time":"2024-12-06T10:30:02.8925178+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"aaq46etm"}
+{"time":"2024-12-06T10:30:02.8930407+07:00","level":"INFO","msg":"handler: started","stream_id":"aaq46etm"}
+{"time":"2024-12-06T10:30:02.8925178+07:00","level":"INFO","msg":"sender: started","stream_id":"aaq46etm"}
+{"time":"2024-12-06T10:30:03.4411187+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T10:31:00.5302694+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T10:31:00.5324307+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T10:31:01.5456509+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7093601},{"desc":"uploading config.yaml","runtime_seconds":0.4130823,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.4130823,"progress":"1.6KB/1.6KB"}],"total_operations":3}}
+{"time":"2024-12-06T10:31:01.9191883+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T10:31:03.2988335+07:00","level":"INFO","msg":"stream: closing","id":"aaq46etm"}
+{"time":"2024-12-06T10:31:03.2988335+07:00","level":"INFO","msg":"handler: closed","stream_id":"aaq46etm"}
+{"time":"2024-12-06T10:31:03.2988335+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"aaq46etm"}
+{"time":"2024-12-06T10:31:03.2988335+07:00","level":"INFO","msg":"sender: closed","stream_id":"aaq46etm"}
+{"time":"2024-12-06T10:31:03.2993391+07:00","level":"INFO","msg":"stream: closed","id":"aaq46etm"}

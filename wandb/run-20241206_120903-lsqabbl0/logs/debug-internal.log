@@ -1,0 +1,17 @@
+{"time":"2024-12-06T12:09:03.9168249+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T12:09:03.9168249+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_120903-lsqabbl0\\logs\\debug-core.log"}
+{"time":"2024-12-06T12:09:04.9813808+07:00","level":"INFO","msg":"created new stream","id":"lsqabbl0"}
+{"time":"2024-12-06T12:09:04.9813808+07:00","level":"INFO","msg":"stream: started","id":"lsqabbl0"}
+{"time":"2024-12-06T12:09:04.9813808+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"lsqabbl0"}
+{"time":"2024-12-06T12:09:04.9813808+07:00","level":"INFO","msg":"handler: started","stream_id":"lsqabbl0"}
+{"time":"2024-12-06T12:09:04.9813808+07:00","level":"INFO","msg":"sender: started","stream_id":"lsqabbl0"}
+{"time":"2024-12-06T12:09:05.4037774+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T12:14:22.1892687+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T12:14:22.1899693+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T12:14:23.194706+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.434309,"progress":"382B/382B"},{"desc":"saving job artifact","runtime_seconds":0.4304669},{"desc":"uploading config.yaml","runtime_seconds":0.1509131,"progress":"1.4KB/1.4KB"},{"desc":"uploading output.log","runtime_seconds":0.1509131,"progress":"4.6KB/4.6KB"}],"total_operations":4}}
+{"time":"2024-12-06T12:14:25.720427+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T12:14:27.0959454+07:00","level":"INFO","msg":"stream: closing","id":"lsqabbl0"}
+{"time":"2024-12-06T12:14:27.0959454+07:00","level":"INFO","msg":"handler: closed","stream_id":"lsqabbl0"}
+{"time":"2024-12-06T12:14:27.0959454+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lsqabbl0"}
+{"time":"2024-12-06T12:14:27.0959454+07:00","level":"INFO","msg":"sender: closed","stream_id":"lsqabbl0"}
+{"time":"2024-12-06T12:14:27.0964516+07:00","level":"INFO","msg":"stream: closed","id":"lsqabbl0"}

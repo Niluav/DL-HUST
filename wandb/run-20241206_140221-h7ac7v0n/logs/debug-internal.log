@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:02:22.0170403+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T14:02:22.0175603+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_140221-h7ac7v0n\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:02:23.6739403+07:00","level":"INFO","msg":"created new stream","id":"h7ac7v0n"}
+{"time":"2024-12-06T14:02:23.6739403+07:00","level":"INFO","msg":"stream: started","id":"h7ac7v0n"}
+{"time":"2024-12-06T14:02:23.6739403+07:00","level":"INFO","msg":"handler: started","stream_id":"h7ac7v0n"}
+{"time":"2024-12-06T14:02:23.6739403+07:00","level":"INFO","msg":"sender: started","stream_id":"h7ac7v0n"}
+{"time":"2024-12-06T14:02:23.6739403+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"h7ac7v0n"}
+{"time":"2024-12-06T14:02:24.110568+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:02:58.3279878+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:02:58.3284939+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:02:59.3298313+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6916795}],"total_operations":1}}
+{"time":"2024-12-06T14:02:59.5390051+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:03:00.8965027+07:00","level":"INFO","msg":"stream: closing","id":"h7ac7v0n"}
+{"time":"2024-12-06T14:03:00.8965027+07:00","level":"INFO","msg":"handler: closed","stream_id":"h7ac7v0n"}
+{"time":"2024-12-06T14:03:00.8965027+07:00","level":"INFO","msg":"sender: closed","stream_id":"h7ac7v0n"}
+{"time":"2024-12-06T14:03:00.8965027+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"h7ac7v0n"}
+{"time":"2024-12-06T14:03:00.8970072+07:00","level":"INFO","msg":"stream: closed","id":"h7ac7v0n"}

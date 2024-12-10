@@ -1,0 +1,17 @@
+{"time":"2024-12-06T11:38:44.6386748+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T11:38:44.6386748+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_113844-6fwqjcfv\\logs\\debug-core.log"}
+{"time":"2024-12-06T11:38:45.7135359+07:00","level":"INFO","msg":"created new stream","id":"6fwqjcfv"}
+{"time":"2024-12-06T11:38:45.7135359+07:00","level":"INFO","msg":"stream: started","id":"6fwqjcfv"}
+{"time":"2024-12-06T11:38:45.7135359+07:00","level":"INFO","msg":"handler: started","stream_id":"6fwqjcfv"}
+{"time":"2024-12-06T11:38:45.7142288+07:00","level":"INFO","msg":"sender: started","stream_id":"6fwqjcfv"}
+{"time":"2024-12-06T11:38:45.7142288+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"6fwqjcfv"}
+{"time":"2024-12-06T11:38:46.3221663+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T11:40:06.6946488+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T11:40:07.068745+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T11:40:07.6953274+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.3558576},{"desc":"uploading output.log","runtime_seconds":0.0789066,"progress":"1.7KB/1.7KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0789066,"progress":"1.4KB/1.4KB"}],"total_operations":3}}
+{"time":"2024-12-06T11:40:08.1784826+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T11:40:09.534248+07:00","level":"INFO","msg":"stream: closing","id":"6fwqjcfv"}
+{"time":"2024-12-06T11:40:09.534248+07:00","level":"INFO","msg":"handler: closed","stream_id":"6fwqjcfv"}
+{"time":"2024-12-06T11:40:09.534248+07:00","level":"INFO","msg":"sender: closed","stream_id":"6fwqjcfv"}
+{"time":"2024-12-06T11:40:09.534248+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6fwqjcfv"}
+{"time":"2024-12-06T11:40:09.540916+07:00","level":"INFO","msg":"stream: closed","id":"6fwqjcfv"}

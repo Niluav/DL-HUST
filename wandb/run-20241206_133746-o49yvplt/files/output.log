@@ -1,0 +1,18 @@
+c:\Users\ledou\miniconda3\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+Epoch 1/5
+[1m230/230[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m15s[0m 45ms/step - loss: 0.1187 - val_loss: 0.0029 - learning_rate: 0.0100
+Epoch 2/5
+[1m230/230[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m9s[0m 41ms/step - loss: 0.0054 - val_loss: 0.0014 - learning_rate: 0.0100
+Epoch 3/5
+[1m230/230[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m9s[0m 39ms/step - loss: 0.0030 - val_loss: 0.0013 - learning_rate: 0.0100
+Epoch 4/5
+[1m230/230[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m11s[0m 46ms/step - loss: 0.0021 - val_loss: 9.8704e-04 - learning_rate: 0.0100
+Epoch 5/5
+[1m230/230[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m11s[0m 47ms/step - loss: 0.0016 - val_loss: 9.6186e-04 - learning_rate: 0.0100
+[1m288/288[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 8ms/step
+R² Score: 0.946188767062702
+Mean Absolute Error (MAE): 0.024272441516985342
+Mean Squared Error (MSE): 0.0010139521432115512
+Root Mean Squared Error (RMSE): 0.03184261520685057
+Training Time: 54.96450614929199 seconds

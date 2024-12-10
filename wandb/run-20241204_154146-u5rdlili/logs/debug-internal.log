@@ -1,0 +1,17 @@
+{"time":"2024-12-04T15:41:46.6632014+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-04T15:41:46.6632014+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241204_154146-u5rdlili\\logs\\debug-core.log"}
+{"time":"2024-12-04T15:41:47.8560255+07:00","level":"INFO","msg":"created new stream","id":"u5rdlili"}
+{"time":"2024-12-04T15:41:47.8565514+07:00","level":"INFO","msg":"stream: started","id":"u5rdlili"}
+{"time":"2024-12-04T15:41:47.8565514+07:00","level":"INFO","msg":"handler: started","stream_id":"u5rdlili"}
+{"time":"2024-12-04T15:41:47.8565514+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"u5rdlili"}
+{"time":"2024-12-04T15:41:47.8565514+07:00","level":"INFO","msg":"sender: started","stream_id":"u5rdlili"}
+{"time":"2024-12-04T15:41:48.3044905+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T15:42:31.3467237+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T15:42:31.346901+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T15:42:32.3559239+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7210735},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7146266,"progress":"376B/376B"},{"desc":"uploading config.yaml","runtime_seconds":0.4288878,"progress":"1.3KB/1.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4288878,"progress":"1.3KB/1.3KB"}],"total_operations":4}}
+{"time":"2024-12-04T15:42:32.9201372+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-04T15:42:34.3069433+07:00","level":"INFO","msg":"stream: closing","id":"u5rdlili"}
+{"time":"2024-12-04T15:42:34.3069433+07:00","level":"INFO","msg":"handler: closed","stream_id":"u5rdlili"}
+{"time":"2024-12-04T15:42:34.3069433+07:00","level":"INFO","msg":"sender: closed","stream_id":"u5rdlili"}
+{"time":"2024-12-04T15:42:34.3069433+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u5rdlili"}
+{"time":"2024-12-04T15:42:34.3074505+07:00","level":"INFO","msg":"stream: closed","id":"u5rdlili"}

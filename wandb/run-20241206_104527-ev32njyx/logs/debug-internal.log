@@ -1,0 +1,17 @@
+{"time":"2024-12-06T10:45:27.1470663+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-06T10:45:27.1475887+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ledou\\Documents\\Scolaire\\Hust\\Deep Learning\\projet\\DL-HUST\\wandb\\run-20241206_104527-ev32njyx\\logs\\debug-core.log"}
+{"time":"2024-12-06T10:45:28.1111328+07:00","level":"INFO","msg":"created new stream","id":"ev32njyx"}
+{"time":"2024-12-06T10:45:28.111196+07:00","level":"INFO","msg":"stream: started","id":"ev32njyx"}
+{"time":"2024-12-06T10:45:28.111196+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"ev32njyx"}
+{"time":"2024-12-06T10:45:28.111196+07:00","level":"INFO","msg":"sender: started","stream_id":"ev32njyx"}
+{"time":"2024-12-06T10:45:28.111258+07:00","level":"INFO","msg":"handler: started","stream_id":"ev32njyx"}
+{"time":"2024-12-06T10:45:28.5326916+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T10:46:29.7170533+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T10:46:29.7175588+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T10:46:30.7282578+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4807868},{"desc":"uploading output.log","runtime_seconds":0.1980884,"progress":"1.7KB/1.7KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1980884,"progress":"1.4KB/1.4KB"}],"total_operations":3}}
+{"time":"2024-12-06T10:46:31.2161916+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T10:46:32.588756+07:00","level":"INFO","msg":"stream: closing","id":"ev32njyx"}
+{"time":"2024-12-06T10:46:32.588756+07:00","level":"INFO","msg":"handler: closed","stream_id":"ev32njyx"}
+{"time":"2024-12-06T10:46:32.588756+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ev32njyx"}
+{"time":"2024-12-06T10:46:32.588756+07:00","level":"INFO","msg":"sender: closed","stream_id":"ev32njyx"}
+{"time":"2024-12-06T10:46:32.5892607+07:00","level":"INFO","msg":"stream: closed","id":"ev32njyx"}
